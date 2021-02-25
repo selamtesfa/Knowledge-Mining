@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Course Work
 
-# [Lab 01](Lab01 (1).html)
-# [PCA](PCA.html)
+### [Lab 01](Lab01 (1).html)
+### [PCA](PCA.html)
 
 
 
