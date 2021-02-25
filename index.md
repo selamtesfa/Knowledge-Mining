@@ -4,8 +4,10 @@ You can use the [editor on GitHub](https://github.com/selamtesfa/knowledgemining
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## [Lab 01](Lab01 (1).html)
-## [PCA](PCA.html)
+## Course Work
+
+# [Lab 01](Lab01 (1).html)
+# [PCA](PCA.html)
 
 
 
