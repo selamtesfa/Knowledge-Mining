@@ -10,3 +10,4 @@ Data mining and machine learning methods constitute the core of data science. Th
 ### [Lab 03](Lab03.html)
 ### [Lab 05](Lab05.html)
 ### [Assignment 4](Assignment4.html)
+### [Assignment 5](Assignment5.html)
