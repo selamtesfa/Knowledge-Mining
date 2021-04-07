@@ -16,4 +16,4 @@ Data mining and machine learning methods constitute the core of data science. Th
 
 ## Project
 
-### [Project Proposal] (projectpropsal.pptx)
+### [Project Proposal] (projectpropsal.pdf)
